@@ -16,10 +16,6 @@ cd Brutegram
 bash Brutegram
 ```
 
-## Screenshot 
-
-![Screenshot](https://i.postimg.cc/fwLVDC81/Screenshot-20200502-193420-Termux.jpg) 
-
 
 ### My Accounts
 
